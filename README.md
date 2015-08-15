@@ -34,7 +34,7 @@ Here are a few screenshots of what Admin can do:
 <img src="images/screen3.png" height="400px" width="700px"> <br><br>
 
 * Display all orders <br><br>
-<img src="images/screen1.png" height="400px" width="700px"> <br><br>
+<img src="images/screen2.png" height="400px" width="700px"> <br><br>
 
 * Display all customers <br><br>
-<img src="images/screen2.png" height="400px" width="700px">
+<img src="images/screen1.png" height="400px" width="700px">
