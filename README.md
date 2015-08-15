@@ -2,19 +2,19 @@
 
 eStore is a simple shopping cart built entirely from scratch in PHP.
 
-Technologies:
-* PHP
-* MySQL
-* Javascript, jQuery
-* CSS
-
-### Demo
 [Live Demo](http://pawar-demo-estore.herokuapp.com/index.php/store/index) <br>
 <i>Note: Heroku apps take a few minutes to start up. Be patient</i> :)
 
 Test credentials: <br>
 ```username: johndoe```<br>
 ```pass: password```
+
+Technologies:
+* PHP
+* MySQL
+* Javascript, jQuery
+* CSS
+
 
 ### Features
 * User login/signup
