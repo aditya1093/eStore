@@ -14,7 +14,7 @@
 			border-color: #333 !important;
     	}
     	</style>
-    	<link rel="stylesheet" href="<?php echo base_url("css/foundation.min.css"); ?>" />
+    	<link rel="stylesheet" href="https://pawar-demo-estore.herokuapp.com/css/foundation.min.css" />
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
     	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 </head>
@@ -136,7 +136,7 @@
 		</div>
 	</div>
 
-      	<script src="<?php echo base_url("js/foundation.min.js"); ?>"></script>
+      	<script src="https://pawar-demo-estore.herokuapp.com/js/foundation.min.js"></script>
       	<script>
       	 	$(document).foundation();
         	</script>
